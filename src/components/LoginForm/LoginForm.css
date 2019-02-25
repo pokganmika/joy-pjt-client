@@ -1,0 +1,12 @@
+.login {
+  display: flex;
+}
+
+.social-login {
+  margin-top: 20px;
+}
+
+.item {
+  flex-basis: 100%;
+  text-align: center;
+}
